@@ -2,23 +2,20 @@
 
 **Priyansh-Bot** is a Facebook Messenger chatbot that runs with the help of your **Facebook account's appstate (cookies)**. This bot listens to your messages in Messenger and handles multiple useful commands.
 
-,
 
 ##
 
 - Facebook Messenger chatbot functionality
 - Facebook login through `appstate.json` (cookies)
-- 50+ built-in commands
+- 250+ built-in commands
 - Easily customizable structure for developers
 
-,
 
 ## 🧰 Requirements
 
 - **Node.js version 18 or above (18+)**
 - Facebook `appstate.json` file (login cookie JSON)
 
-,
 
 ## ⚙️ Installation
 
@@ -27,13 +24,13 @@
 ```bash
 git clone https://github.com/codedbypriyansh/Priyansh-Bot.git
 cd Priyansh-Bot
-,
+```
 
 ### 2. Dependencies Installed
 
 ```bash
 npm install
-,
+```
 
 ### 3. Facebook Appstate Add Do it
 
@@ -65,6 +62,17 @@ node index.js
 ```
 - The bot automatically tracks group and user data (if the database is configured).
 
+---
+
+## Fca type 
+- You can use any one
+
+```
+fca-priyansh
+```
+```
+priyanshu-fca
+```
 ---
 
 ## 🤝 Contributing
