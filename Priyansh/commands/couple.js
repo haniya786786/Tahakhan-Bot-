@@ -2,7 +2,7 @@
     name: "couple",
     version: "2.0.0",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "𝐛𝐫𝐨𝐤𝐞𝐧 𝐤𝐢𝐧𝐠",
     description: "Seo phi",
     commandCategory: "Love",
     usages: "[tag]",
