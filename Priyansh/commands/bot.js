@@ -49,21 +49,21 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "morning") || (event.body.toLowerCase() == "good morning")) {
-     return api.sendMessage("Ꮆɵɵɗ Ɱ❍ɽƞɪɪƞɠ Ɛⱱɛɽɣ❍ƞɛ🌅, Ƭɽɣ ꌗɵɱɛ Cɵffɛɛ ❍ɽ Ƭɛɑ Ƭ❍ Ꮗɑҡɛ Uƥ☕✨💫", threadID);
+     return api.sendMessage("𝐆❍❍𝐃 𝐌❍𝐑𝐈𝐍𝐆 𝐓❍❍ 𝐁𝐀𝐁𝐘🌅, 𝐘𝐀 𝐋❍ 𝐁𝐀𝐁𝐘 𝐂❍𝐅𝐅𝐄𝐖☕✨💫", threadID);
    };
 
    if ((event.body.toLowerCase() == "anyone") || (event.body.toLowerCase() == "any")) {
      return api.sendMessage("Main Hun Naw Jaaneman ❤️", threadID);
    };
 
-   if ((event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "priyansh rajput") || (event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "prince")) {
+   if ((event.body.toLowerCase() == "BROKEN") || (event.body.toLowerCase() == "broken") || (event.body.toLowerCase() == "priyansh") || (event.body.toLowerCase() == "prince")) {
      return api.sendMessage( "Busy HoGa Work Me Main t0o Hun Naw 😘",threadID);
 
        
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝕻𝖗𝖎𝖞𝖆𝖓𝖘𝖍 𝕽𝖆𝖏𝖕𝖚𝖙☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ℙ𝕣𝕚𝕪𝕒𝕟𝕤𝕙🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/priyanshu.rajput.official\n👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑❍𝐊𝐄𝐍 𝐊𝐈𝐍𝐆☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐁𝐑❍𝐊𝐄𝐍 𝐊𝐈𝐍𝐆🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/APK BF HUN YWAR\n👋For Any Kind Of Help Contact On Telegram  Username 👉 KOCH BI NHI😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
@@ -71,7 +71,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
-     return api.sendMessage("He is Priyansh. He Gives his name Priyansh everywhare", threadID);
+     return api.sendMessage("He is 𝐁𝐫𝐨𝐤𝐞𝐧. He Gives his name 𝐛𝐫𝐨𝐤𝐞𝐧 everywhare", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
@@ -135,8 +135,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️Me toh Andha Hu Dekh nhi sakta", threadID);
    };
 
-   if ((event.body.toLowerCase() == "jai shree ram") || (event.body.toLowerCase() == "ram") || (event.body.toLowerCase() == "ram ram")) {
-    return api.sendMessage("️𝗝𝗮𝗶 𝗦𝗵𝗿𝗲𝗲 𝗥𝗮𝗺 😇", threadID);
+   if ((event.body.toLowerCase() == "Assalamu Alaikum ") || (event.body.toLowerCase() == "assalamwalikum") || (event.body.toLowerCase() == "ram ram")) {
+    return api.sendMessage("️walaikum salam Wa Rahmatullahi Wa Barakatuh  😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "bot banake do") || (event.body.toLowerCase() == "mujhe bhi chaiye")) {
@@ -188,7 +188,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "🥰") || (event.body.toLowerCase() == "😍") || (event.body.toLowerCase() == "😻") || (event.body.toLowerCase() == "❤️")) {
-     return api.sendMessage("🦋🌿Aƞƙɧ❍ Ɱɛ Ƥɣɑɽ͢  Ɗɪɭɱɛ Ƙɧuɱɑɽ🌬️🌍 ••Ƥɣɑɽ Ƭ❍ɧ Ƞɧɪ Ƙɒɽ ɭɪɣɑ Ɱuȷɧʂɛ>³••🕊️🍎😍", threadID);
+     return api.sendMessage("🦋🌿𝐊𝐘𝐓𝐍𝐀 𝐏𝐘𝐀𝐑𝐀 𝐇❍ 𝐀𝐏 𝐘𝐀𝐑³••🕊️🍎😍", threadID);
    };
 
    if ((event.body.toLowerCase() == "kese ho") || (event.body.toLowerCase() == "kaise ho") || (event.body.toLowerCase() == "kese ho ji") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "how are you?")) {
@@ -223,12 +223,12 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("Yes <3", threadID);
    };
 
-   if ((event.body.toLowerCase() == "&fuck") || (event.body.toLowerCase() == "&Fuck")) {
-     return api.sendMessage("🏔️🏝️Priyansh Ƞɛ ꌗƥɛçɪɑɭɭɣ Ƭuɱ 🌊🪺Jɑɪʂɛ Ƭɧɑɽƙɪɣɵ Ƙɛ Ɬɪɣɛ•• 🏞️🌬️Ɣɑɧ çɵɱɱɑƞɗ Ɦɑʈɑ Ɗɪɣɑ Ɦɑɪ↗↘ Sɵɽɽɣ Ɠɣuʂ••😹🫶", threadID);
+   if ((event.body.toLowerCase() == "jani") || (event.body.toLowerCase() == "jani")) {
+     return api.sendMessage("🏔️🏝️𝐁𝐑❍𝐊𝐄𝐍 𝐇𝐄𝐑𝐄••😹🫶", threadID);
    };
 
-  if ((event.body.toLowerCase() == "ami priyansh") || (event.body.toLowerCase() == "ami diya") || (event.body.toLowerCase() == "main amrita") || (event.body.toLowerCase() == "main priyansh") || (event.body.toLowerCase() == "main diya")) {
-     return api.sendMessage("🕊️🍎...Aɭɛ Ɱɛɹɛ Ɓɑɓɣ Ƙɛʂɛ Ɦɵ ɑɑp😚🍒", threadID);
+  if ((event.body.toLowerCase() == "broken") || (event.body.toLowerCase() == "broken") || (event.body.toLowerCase() == "main amrita") || (event.body.toLowerCase() == "main priyansh") || (event.body.toLowerCase() == "main diya")) {
+     return api.sendMessage("Ji meri jan hukme.kro me adr ho apk pass😚🍒", threadID);
    };
    mess = "{name}"
   
